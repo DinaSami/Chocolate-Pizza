@@ -88,6 +88,11 @@ margin: 5px;
     margin-bottom: 20px;
     margin-top: -24px;
 }
+.leftFooter{
+    float: right;
+    border: none;
+    background-color: orangered;
+}
 
 
 
